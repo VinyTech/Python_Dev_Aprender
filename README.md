@@ -1,2 +1,2 @@
 # Python_Dev_Aprender
- primeiros passos com "Python Vercionado"
+ Primeiros passos com "Python Vercionado"
