@@ -12,3 +12,4 @@ parte1 = 'eletrô'
 t = 'te'
 print(f'{b}{t}{r}{a} {parte1}{parte2}')
 # Está ficando ótimo!
+# add mais uma linha de teste
